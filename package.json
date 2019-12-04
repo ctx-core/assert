@@ -26,7 +26,7 @@
 	},
 	"homepage": "https://github.com/ctx-core/ctx-core#readme",
 	"devDependencies": {
-		"typescript": "^3.7.2"
+		"typescript": "^3.7.3"
 	},
 	"publishConfig": {
 		"access": "public"
