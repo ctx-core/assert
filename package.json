@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "1.2.4",
+	"version": "1.2.5",
 	"description": "ctx-core assertions",
 	"main": "lib.js",
 	"module": "lib.js",
