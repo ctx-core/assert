@@ -26,7 +26,7 @@
 	},
 	"homepage": "https://github.com/ctx-core/assert#readme",
 	"devDependencies": {
-		"typescript": "^3.8.2"
+		"typescript": "^3.8.3"
 	},
 	"publishConfig": {
 		"access": "public"
