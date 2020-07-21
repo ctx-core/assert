@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "1.2.24",
+	"version": "1.2.25",
 	"description": "ctx-core assertions",
 	"main": "./index.js",
 	"module": "./index.js",
