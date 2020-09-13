@@ -2,6 +2,20 @@
 	"name": "@ctx-core/assert",
 	"version": "1.2.32",
 	"description": "ctx-core assertions",
+	"keywords": [
+		"ctx-core",
+		"object"
+	],
+	"homepage": "https://github.com/ctx-core/assert#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/assert/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/assert.git"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,23 +23,9 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/assert.git"
-	},
-	"keywords": [
-		"ctx-core",
-		"object"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/assert/issues"
-	},
-	"homepage": "https://github.com/ctx-core/assert#readme",
 	"devDependencies": {
 		"typescript": "^4.0.2"
 	},
