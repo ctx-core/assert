@@ -1,4 +1,4 @@
-export function assert__keys(
+export function assert_keys(
 	obj,
 	_failure =
 		(value, key)=>
@@ -17,4 +17,7 @@ export function assert__keys(
 		console.trace(failures)
 		throw failures
 	}
+}
+export {
+	assert_keys as assert__keys
 }
