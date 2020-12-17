@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 3.0.0
+
+### Major Changes
+
+- assert\_\_keys->assert_keys
+
 ## 2.0.5
 
 ### Patch Changes
