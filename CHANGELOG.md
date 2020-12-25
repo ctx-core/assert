@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 3.0.1
+
+### Patch Changes
+
+- - .rush
+
 ## 3.0.0
 
 ### Major Changes
