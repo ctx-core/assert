@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 4.0.5
+
+### Patch Changes
+
+- typescript: ^4.2.2 -> ^4.2.3
+
 ## 4.0.4
 
 ### Patch Changes
