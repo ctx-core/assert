@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 4.0.8
+
+### Patch Changes
+
+- version bump
+
 ## 4.0.7
 
 ### Patch Changes
