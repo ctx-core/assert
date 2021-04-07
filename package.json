@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "4.0.8",
+	"version": "4.0.9",
 	"description": "ctx-core assertions",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"devDependencies": {
-		"typescript": "^4.2.3"
+		"typescript": "^4.2.4"
 	},
 	"publishConfig": {
 		"access": "public",
