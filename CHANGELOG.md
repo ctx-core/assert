@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 4.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 4.2.1
 
 ### Patch Changes
