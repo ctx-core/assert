@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 4.3.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 4.3.0
 
 ### Minor Changes
