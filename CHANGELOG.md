@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 5.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 4.3.3
 
 ### Patch Changes
