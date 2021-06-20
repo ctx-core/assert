@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 5.0.4
+
+### Patch Changes
+
+- npm run prepare instead of npm run prepublishOnly
+
 ## 5.0.3
 
 ### Patch Changes
