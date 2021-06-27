@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 5.0.9
+
+### Patch Changes
+
+- dist directory
+
 ## 5.0.8
 
 ### Patch Changes
