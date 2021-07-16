@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.8
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 6.0.7
 
 ### Patch Changes
