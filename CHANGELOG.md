@@ -1,5 +1,17 @@
 # @ctx-core/assert
 
+## 6.0.11
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 6.0.10
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 6.0.9
 
 ### Patch Changes

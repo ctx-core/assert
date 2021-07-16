@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "6.0.9",
+	"version": "6.0.11",
 	"description": "ctx-core assertions",
 	"keywords": [
 		"ctx-core",
