@@ -1,5 +1,23 @@
 # @ctx-core/assert
 
+## 6.0.6
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
+## 6.0.5
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
+## 6.0.4
+
+### Patch Changes
+
+- back to esm module with cjs using esm npm package to load library
+
 ## 6.0.3
 
 ### Patch Changes
