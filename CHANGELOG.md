@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.17
+
+### Patch Changes
+
+- compile using swc
+
 ## 6.0.16
 
 ### Patch Changes
