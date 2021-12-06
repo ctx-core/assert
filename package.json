@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "6.0.23",
+	"version": "6.0.24",
 	"description": "ctx-core assertions",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.117",
+		"@swc/core": "^1.2.118",
 		"typescript": "next"
 	},
 	"publishConfig": {
