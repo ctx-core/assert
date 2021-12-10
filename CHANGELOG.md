@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.26
+
+### Patch Changes
+
+- package.json: - module
+
 ## 6.0.25
 
 ### Patch Changes
