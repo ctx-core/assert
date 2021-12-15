@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.30
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 6.0.29
 
 ### Patch Changes
