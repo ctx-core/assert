@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.27
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 6.0.26
 
 ### Patch Changes
