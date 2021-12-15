@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.29
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 6.0.28
 
 ### Patch Changes
