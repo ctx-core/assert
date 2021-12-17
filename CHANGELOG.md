@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.33
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 6.0.32
 
 ### Patch Changes
