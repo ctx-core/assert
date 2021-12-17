@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.32
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 6.0.31
 
 ### Patch Changes

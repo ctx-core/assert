@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "6.0.31",
+	"version": "6.0.32",
 	"description": "ctx-core assertions",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,7 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./dist/index.d.ts",
+	"types": "./src/index.ts",
 	"exports": {
 		".": {
 			"import": "./dist/index.js"
