@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.31
+
+### Patch Changes
+
+- fix: build
+
 ## 6.0.30
 
 ### Patch Changes
