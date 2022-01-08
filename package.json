@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "6.0.37",
+	"version": "6.0.38",
 	"description": "ctx-core assertions",
 	"keywords": [
 		"ctx-core",
@@ -44,5 +44,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }

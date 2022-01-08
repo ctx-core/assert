@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.38
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 6.0.37
 
 ### Patch Changes
