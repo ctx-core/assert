@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.42
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 6.0.41
 
 ### Patch Changes
