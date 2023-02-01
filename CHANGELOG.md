@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.0.43
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 6.0.42
 
 ### Patch Changes
