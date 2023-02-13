@@ -1,5 +1,12 @@
 # @ctx-core/assert
 
+## 6.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+- keys\_\_assert: aliased by assert_keys
+
 ## 6.0.43
 
 ### Patch Changes
