@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.1.1
+
+### Patch Changes
+
+- index.d.ts: fix: export \* from './keys\_\_assert'
+
 ## 6.1.0
 
 ### Minor Changes

@@ -1,1 +1,1 @@
-export * from './keys__assert/index.js'
+export * from './keys__assert'
