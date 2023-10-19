@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.1.23
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+
 ## 6.1.22
 
 ### Patch Changes
