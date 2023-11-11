@@ -1,5 +1,5 @@
 export function keys__assert(
-  obj, _failure = (value, key)=>!value && `${key} is not present`
+	obj, _failure = (value, key)=>!value && `${key} is not present`
 ) {
 	const failures = {}
 	let has_failure

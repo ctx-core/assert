@@ -1,5 +1,20 @@
 # @ctx-core/assert
 
+## 6.2.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+
 ## 6.1.23
 
 ### Patch Changes

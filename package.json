@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "6.1.23",
+	"version": "6.2.0",
 	"description": "ctx-core assertions",
 	"keywords": [
 		"ctx-core",
@@ -17,12 +17,15 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
+	"files": [
+		"*.d.ts",
+		"./keys__assert"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
-	"svelte": "./src/index.js",
 	"scripts": {
 		"build": ":",
 		"clean": ":",
