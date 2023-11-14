@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/assert",
-	"version": "6.2.1",
+	"version": "6.2.2",
 	"description": "ctx-core assertions",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./keys__assert"
 	],
 	"types": "./index.d.ts",
