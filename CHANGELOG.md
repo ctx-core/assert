@@ -1,5 +1,11 @@
 # @ctx-core/assert
 
+## 6.2.13
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 6.2.12
 
 ### Patch Changes
